@@ -37,6 +37,6 @@ int main()
     }
   }
 
-  printf("가장 많이 팔린 책 제목 : %s",book[num]);
+  printf("가장 많이 팔린 책 이름 : %s",book[num]);
   return 0;
 }
